@@ -3,6 +3,8 @@ Implements the ideas presented in [Supervised Contrastive Learning](https://arxi
 
 ![](assets/framework.png)
 
+(Figures gathered from the paper)
+
 A detailed discussion of the paper and the results of our experiments are available here is [this report](link to be updated).
 
 This repository consists of the notebooks (runnable on Colab) showing the experiments we have done.
