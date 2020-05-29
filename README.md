@@ -1,14 +1,14 @@
 # Supervised-Contrastive-Learning-in-TensorFlow-2
 Implements the ideas presented in [Supervised Contrastive Learning](https://arxiv.org/pdf/2004.11362v1.pdf) by Khosla et al. The authors propose a two-stage framework to enhance the performance of image classifiers and also achieves SoTA results.
 
-![](images/framework.png)
+![](assets/framework.png)
 
 A detailed discussion of the paper and the results of our experiments are available here is [this report](link to be updated).
 
 This repository consists of the notebooks (runnable on Colab) showing the experiments we have done.
 
 ## About the notebooks
-
+```
 ├── Flowers
 │   ├── Contrastive_Training_Flowers.ipynb
 │   ├── Contrastive_Training_Flowers_Augmentation.ipynb
@@ -24,6 +24,7 @@ This repository consists of the notebooks (runnable on Colab) showing the experi
 ├── Pets
 │   ├── Contrastive_Training_Pets.ipynb
 │   └── Fully_Supervised_Training_Pets.ipynb
+```
 
 **Note**:
 - `Contrastive_Training_*.ipynb` notebooks show the supervised contrastive framework proposed in the paper.
