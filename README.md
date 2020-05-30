@@ -26,11 +26,14 @@ This repository consists of the notebooks (runnable on Colab) showing the experi
 ├── Pets
 │   ├── Contrastive_Training_Pets.ipynb
 │   └── Fully_Supervised_Training_Pets.ipynb
+├── Visualization_ImageNet_subset.ipynb
+├── Visualization_Pets.ipynb
 ```
 
 **Note**:
 - `Contrastive_Training_*.ipynb` notebooks show the supervised contrastive framework proposed in the paper.
 - `Fully_Supervised_Training_*.ipynb` notebooks show the typical fully supervised training with different datasets.
+- `Visualization_ImageNet_*.ipynb` notebooks show the visualizations of the embeddings learned by the supervised contrastive learning framework.
 
 ## About the datasets
 - Flowers
@@ -47,7 +50,7 @@ This repository consists of the notebooks (runnable on Colab) showing the experi
 
 ## Visualization of the embeddings learned by supervised contrastive learning
 
-**Shweta to update**
+![](assets/embeddings_vis.png)
 
 ## Feedback
 Via GitHub issues
