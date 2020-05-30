@@ -46,7 +46,9 @@ This repository consists of the notebooks (runnable on Colab) showing the experi
 
 ## Results
 
-- Classification plots of the different datasets (will be done after writing the report or while writing the report)
+![](assets/performance_summary.png)
+
+The above plots are from the experiments conducted on the **Pets** dataset. More results from the other two datasets have been discussed in the above-mentioned report and can be found here: https://app.wandb.ai/authors/scl. 
 
 ## Visualization of the embeddings learned by supervised contrastive learning
 
