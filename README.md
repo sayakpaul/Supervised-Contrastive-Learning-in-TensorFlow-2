@@ -9,6 +9,10 @@ A detailed discussion of the paper and the results of our experiments are availa
 
 This repository consists of the notebooks (runnable on Colab) showing the experiments we have done.
 
+## Acknowledgements
+- [Contrastive loss for supervised classification](https://towardsdatascience.com/contrastive-loss-for-supervised-classification-224ae35692e7).
+- [Prannay Khosla](https://twitter.com/PrannayKhosla) for sharing his comments on our work.
+
 ## About the notebooks
 ```
 ├── Flowers
