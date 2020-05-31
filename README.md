@@ -1,4 +1,7 @@
 # Supervised-Contrastive-Learning-in-TensorFlow-2
+
+(Collaboratively done by [Shweta Shaw](https://www.linkedin.com/in/sweta-shaw-797540159/) and myself)
+
 Implements the ideas presented in [Supervised Contrastive Learning](https://arxiv.org/pdf/2004.11362v1.pdf) by Khosla et al. The authors propose a two-stage framework to enhance the performance of image classifiers and also achieves SoTA results.
 
 ![](assets/framework.png)
