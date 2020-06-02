@@ -44,7 +44,7 @@ This repository consists of the notebooks (runnable on Colab) showing the experi
 
 ## About the datasets
 - Flowers
-- Pets
+- Cats vs. Dogs
 - ImageNet Subset (https://github.com/thunderInfy/imagenet-5-categories)
 
 ## Things to note
