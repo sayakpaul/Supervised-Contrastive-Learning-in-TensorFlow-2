@@ -8,7 +8,7 @@ Implements the ideas presented in [Supervised Contrastive Learning](https://arxi
 
 (Figures gathered from the paper)
 
-A detailed discussion of the paper and the results of our experiments are available here is [this report](link to be updated).
+A detailed discussion of the paper and the results of our experiments are available here in [this report](https://app.wandb.ai/authors/scl/reports/Improving-Image-Classification-with-Supervised-Contrastive-Learning--VmlldzoxMzQwNzE).
 
 This repository consists of the notebooks (runnable on Colab) showing the experiments we have done.
 
