@@ -62,7 +62,7 @@ The above plots are from the experiments conducted on the **Pets** dataset. More
 
 ## About executing the notebooks
 
-If you go to any of the notebooks listed in the repository (https://github.com/.../Supervised-Contrastive-Learning-in...) and use an extension like "Open notebook in Google Colab", you should be able to run the experiments right off the bat.
+If you go to any of the notebooks listed in the repository and use an extension like "Open notebook in Google Colab" to open it, you should be able to run the experiments right off the bat.
 
 ## About the library versions
 
