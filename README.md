@@ -37,7 +37,6 @@ This repository consists of the notebooks (runnable on Colab) showing the experi
 ├── Visualization_Pets.ipynb
 ```
 
-**Note**:
 - `Contrastive_Training_*.ipynb` notebooks show the supervised contrastive framework proposed in the paper.
 - `Fully_Supervised_Training_*.ipynb` notebooks show the typical fully supervised training with different datasets.
 - `Visualization_ImageNet_*.ipynb` notebooks show the visualizations of the embeddings learned by the supervised contrastive learning framework.
@@ -60,6 +59,14 @@ The above plots are from the experiments conducted on the **Pets** dataset. More
 ## Visualization of the embeddings learned by supervised contrastive learning
 
 ![](assets/embeddings_vis.png)
+
+## About executing the notebooks
+
+If you go to any of the notebooks listed in the repository (https://github.com/.../Supervised-Contrastive-Learning-in...) and use an extension like "Open notebook in Google Colab", you should be able to run the experiments right off the bat.
+
+## About the library versions
+
+At the time of performing the experiments, we used TensorFlow 2.2. We specifically did not denote the versions of the other libraries. All of our experiments were performed on [Google Colab](http://colab.research.google.com/). 
 
 ## Feedback
 Via GitHub issues
